@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/sample_racer/levels/Game.unity
+  isLoaded: 1
+  isActive: 1
